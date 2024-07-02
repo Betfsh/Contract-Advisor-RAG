@@ -9,7 +9,7 @@
     * [notebooks](#notebooks)
     * [scripts](#scripts)
     * [.github](#.github)
-  - [Installation guide](#installation-guide)
+    * [Installation guide](#installation-guide)
     * [Contributors](*contributors)
     * [License](*license)
 
