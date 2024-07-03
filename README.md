@@ -24,7 +24,7 @@ The project goal is to develop an advanced contract AI system for a startup comp
 Tech Stack used in this project
 * [React](https://react.dev/learn)
 * [Flask](https://flask.palletsprojects.com/en/3.0.x/)
-* [Langchin](https://python.langchain.com/docs/use_cases/question_answering/)
+* [Langchain](https://python.langchain.com/docs/use_cases/question_answering/)
 * [chromaDB](https://www.trychroma.com/)
 * [RAGs](https://docs.ragas.io/en/stable/)
 * [Cohere](https://cohere.com)
