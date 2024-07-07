@@ -2,3 +2,4 @@ env11
 .env
 data
 .ipynb_checkpoints
+__pycache__
